@@ -1,5 +1,4 @@
-#  Data Pipeline Project
-
+#  Robust Data Pipeline Infrastructure for Advanced Analytics
 ## Introduction
 
 In today's data-driven environment, the capacity to quickly gather, organise, and analyse data is critical for making sound decisions. This project aims to provide a complete data pipeline that easily incorporates diverse technologies for handling environmental data. Using open-source technology, the project intends to create a scalable, dependable, and user-friendly system for data intake, storage, processing, and analysis. The final system will store and manage huge datasets while also providing sophisticated analytical capabilities via interactive dashboards and visualisations.
